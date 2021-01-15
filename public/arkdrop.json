@@ -1,0 +1,18 @@
+{
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  },
+  "timestamp": "2021-01-12T12:37:57.000+00:00",
+  "errcode": 0,
+  "errmsg": "success",
+  "airdropInfo": {
+    "pool_weights": 10,
+    "recommend_weights": 10,
+    "user_airdrops_num": 10,
+    "user_airdrops_usdtPrice": 10,
+    "direct_push_num": 10,
+    "interpolated_num": 10
+  }
+}
